@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 80px; 
+    text-transform: uppercase;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+}
+
+img{
+    border-width: 5p;
+    border: solid white;
+    width: 100%;
+    margin-top: 80px;
+}
+
+div{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
